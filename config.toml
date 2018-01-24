@@ -46,30 +46,66 @@ googleAnalytics = ""
 	# email   = "human@monkeytest.it"
 
 
-[[menu.main]]
-	name   = "Material"
-	url    = "/"
-	weight = 0
+# [[menu.main]]
+#	name   = "Material"
+#	url    = "/"
+#	weight = 0
 
 [[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "Getting Started"
+	url    = "/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
-	weight = 20
+	name   = "Unit Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 11
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
-	weight = 30
+	name   = "Component Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 12
 
 [[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
+	name   = "Integration Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 13
+
+[[menu.main]]
+	name   = "System Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 14
+
+[[menu.main]]
+	name   = "End to End Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 15
+
+[[menu.main]]
+	name   = "Manual Tests 👷‍♀️🚧"
+	url    = "tbd/"
+	weight = 16
+
+# [[menu.main]]
+#	name   = "Non-Functional Tests 👷‍♀️🚧"
+#	url    = "tbd/"
+#	weight = 17
+
+
+# [[menu.main]]
+#	name   = "Adding content"
+#	url    = "adding-content/"
+#	weight = 20
+
+# [[menu.main]]
+#	name   = "Roadmap"
+#	url    = "roadmap/"
+#	weight = 30
+
+#[[menu.main]]
+#	name   = "License"
+#	url    = "license/"
+#	weight = 40
 
 
 [blackfriday]

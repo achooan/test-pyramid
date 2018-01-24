@@ -66,25 +66,28 @@
         {{ end }} -->
         
       </div>
+      <br>
+      <ul class="repo">
+          <!-- <li >
+            <a href="{{ .Site.Params.repo_url }}/" target="_blank" title="Contribute" data-action="contribute">
+              <i class="icon icon-face"></i> Contribute
+            </a>
+          </li> -->
+          <li class="repo-stars">
+            <a style="padding-left: -10em; background: #444" href="{{ .Site.Params.repo_url }}/stargazers" target="_blank" title="Stargazers" data-action="star">
+              <i class="icon icon-github"></i> Stars
+              <span class="count">&ndash;</span>
+            </a>
+          </li>
+        </ul>
+        <div  style="text-align: center">
+        <a style="background: none" target="_blank" href="https://creativecommons.org/licenses/by-nc/3.0/">
+          <img style="max-width: 35%" src="{{ $.Site.BaseURL }}/images/creative-commons.svg">
+        </a>
+      </div>
+  
+
     </div>
-
-    <ul class="repo" style="text-align: left">
-        <!-- <li >
-          <a href="{{ .Site.Params.repo_url }}/" target="_blank" title="Contribute" data-action="contribute">
-            <i class="icon icon-face"></i> Contribute
-          </a>
-        </li> -->
-        <li class="repo-stars">
-          <a style="padding-left: -10em" href="{{ .Site.Params.repo_url }}/stargazers" target="_blank" title="Stargazers" data-action="star">
-            <i class="icon icon-github"></i> Stars
-            <span class="count">&ndash;</span>
-          </a>
-        </li>
-    </ul>
-
-    <a style="background: none" target="_blank" href="https://creativecommons.org/licenses/by-nc/3.0/">
-      <img style="max-width: 65%" src="{{ $.Site.BaseURL }}/images/creative-commons.svg">
-    </a>
    
   </div>
 </nav>
