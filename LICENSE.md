@@ -1,3 +1,9 @@
+Content License:
+Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+https://creativecommons.org/licenses/by-nc/3.0/
+
+
+----original LICENSE.md----
 Copyright (c) 2016 Digitalcraftsman <digitalcraftsman@protonmail.com><br>
 Copyright (c) 2016 Martin Donath <martin.donath@squidfunk.com>
 
