@@ -3,25 +3,12 @@ date: 2017-01-23T21:07:13+01:00
 title: License
 weight: 40
 ---
+TestPyramid.com is an open source project to document the Test Pyramid and the relevant components of a healthy quality assurance/testing process.
 
-Copyright (c) 2016 Digitalcraftsman <digitalcraftsman@protonmail.com><br>
-Copyright (c) 2016 Martin Donath <martin.donath@squidfunk.com>
+Report bugs, suggest ideas, and join the conversation on our [Github page](https://github.com/MonkeyTestIt/test-pyramid).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All content is free to be copied shared as along as proper attribution to this site is made as well as it's done for non commercial purposes. If in doubt, get in touch and we'll be happy to help you out.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE.
-
+Read more about
+Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0):
+https://creativecommons.org/licenses/by-nc/3.0/
