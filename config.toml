@@ -62,29 +62,34 @@ googleAnalytics = ""
 	weight = 11
 
 [[menu.main]]
-	name   = "Component Tests 👷‍♀️🚧"
-	url    = "tbd/"
-	weight = 12
+	name   = "License"
+	url    = "license/"
+	weight = 40
 
-[[menu.main]]
-	name   = "Integration Tests 👷‍♀️🚧"
-	url    = "tbd/"
-	weight = 13
+# [[menu.main]]
+# 	name   = "Component Tests 👷‍♀️🚧"
+# 	url    = "tbd/"
+# 	weight = 12
 
-[[menu.main]]
-	name   = "System Tests 👷‍♀️🚧"
-	url    = "tbd/"
-	weight = 14
+# [[menu.main]]
+# 	name   = "Integration Tests 👷‍♀️🚧"
+# 	url    = "tbd/"
+# 	weight = 13
 
-[[menu.main]]
-	name   = "End to End Tests 👷‍♀️🚧"
-	url    = "tbd/"
-	weight = 15
+# [[menu.main]]
+# 	name   = "System Tests 👷‍♀️🚧"
+# 	url    = "tbd/"
+# 	weight = 14
 
-[[menu.main]]
-	name   = "Manual Tests 👷‍♀️🚧"
-	url    = "tbd/"
-	weight = 16
+# [[menu.main]]
+# 	name   = "End to End Tests 👷‍♀️🚧"
+# 	url    = "tbd/"
+# 	weight = 15
+
+# [[menu.main]]
+# 	name   = "Manual Tests 👷‍♀️🚧"
+# 	url    = "tbd/"
+# 	weight = 16
 
 # [[menu.main]]
 #	name   = "Non-Functional Tests 👷‍♀️🚧"

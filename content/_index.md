@@ -1,11 +1,11 @@
 ---
-date: 2017-01-23T21:07:13+01:00
+date: 2017-01-21T21:07:13+01:00
 title: Test Pyramid
 type: index
-weight: 0
+weight: 10
 ---
 
-## Welcome
+## Welcome to home page
 TBD
 
 ## What is the Test Pyramid

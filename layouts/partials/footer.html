@@ -19,6 +19,27 @@
         </div>
       </a>
   {{ end }}
+
+  {{ if not .Prev }}
+  {{ $title := (index (.Site.Pages) 0).Title  }}
+  {{ $permalink := (index (.Site.Pages) 0).Permalink }}
+ 
+  <a href="{{ $permalink }}" title="{{ $title }}">
+    <span class="direction">
+      Previous
+    </span>
+    <div class="page">
+      <div class="button button-previous" role="button" aria-label="Previous">
+        <i class="icon icon-back"></i>
+      </div>
+      <div class="stretch">
+        <div class="title">
+          {{ $title }}
+        </div>
+      </div>
+    </div>
+  </a>
+    {{ end }}
   </div>
 
   <div class="next">
@@ -45,13 +66,14 @@
 {{ end }}
 
 {{ if .IsHome }}
+
 {{ if gt (len .Site.Pages) 2 }}
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
   </div>
 
-  {{ $title := (index (.Site.Pages.ByDate) 1).Title  }}
-  {{ $permalink := (index (.Site.Pages.ByDate) 1).Permalink }}
+  {{ $title := (index (.Data.Pages.ByDate.Reverse) 1).Title  }}
+  {{ $permalink := (index (.Data.Pages.ByDate.Reverse) 1).Permalink }}
   <div class="next">
       <a href="{{ $permalink }}" title="{{ $title }}">
         <span class="direction">
