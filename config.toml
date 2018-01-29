@@ -58,12 +58,12 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "Unit Tests 👷‍♀️🚧"
-	url    = "tbd/"
+	url    = "/tbd/"
 	weight = 11
 
 [[menu.main]]
 	name   = "License"
-	url    = "license/"
+	url    = "/license/"
 	weight = 40
 
 # [[menu.main]]
