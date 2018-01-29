@@ -1,4 +1,4 @@
-# baseurl = "http://127.0.0.1:8000/"
+baseurl = "/"
 relativeURLs = true
 languageCode = "en-us"
 title = "Test Pyramid"
