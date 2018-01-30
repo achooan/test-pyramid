@@ -3,7 +3,7 @@ date: 2017-01-23T21:07:13+01:00
 title: License
 weight: 40
 ---
-TestPyramid.com is an open source project to document the Test Pyramid and the relevant components of a healthy quality assurance/testing process.
+TestPyramid.com is an open source project to document the test pyramid and the relevant components of a healthy quality assurance/testing process.
 
 Report bugs, suggest ideas, and join the conversation on our [Github page](https://github.com/MonkeyTestIt/test-pyramid).
 

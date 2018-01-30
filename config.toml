@@ -57,9 +57,15 @@ googleAnalytics = ""
 	weight = 10
 
 [[menu.main]]
-	name   = "Unit Tests 👷‍♀️🚧"
-	url    = "/tbd/"
+	name   = "Unit Test"
+	url    = "/unit-test/"
 	weight = 11
+
+
+[[menu.main]]
+	name   = "Component Test 👷‍♀️🚧"
+	url    = "/tbd/"
+	weight = 39
 
 [[menu.main]]
 	name   = "License"
