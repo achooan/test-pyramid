@@ -57,7 +57,7 @@ googleAnalytics = ""
 	weight = 10
 
 [[menu.main]]
-	name   = "Unit Test"
+	name   = "Unit Test 👷‍♀️🚧"
 	url    = "/unit-test/"
 	weight = 11
 

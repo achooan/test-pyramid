@@ -2,7 +2,7 @@
 date: 2017-01-22T21:07:13+01:00
 title: Unit Test
 weight: 12
-description: "What is a unit-test and how does it fit into the overall quality and testing process of software development and testing."
+description: "What is a unit test and how does it fit into software development and the testing process."
 ---
 
 ## Introduction

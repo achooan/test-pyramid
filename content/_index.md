@@ -6,14 +6,15 @@ weight: 10
 ---
 
 ## Introduction
+> "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." - Andy Hunt
 
 Testing is an essential part of any kind of production, no matter what you're building. When it comes to software development, it's hard to imagine delivering a product to a customer without testing it first. You may be asking "Why so? Why don't developers just write code without errors and guarantee the quality by themselves? ". And the answer is pretty simple: it's hard to see your own errors. Especially when it comes to making something complex, you need that outside perspective to make sure that everything is alright. 
-
-> “I'm not a great programmer; I'm just a good programmer with great habits.” - Kent Beck
 
 In the modern history there have been a lot of different examples of when people and businesses underestimated the process of testing and didn't put much effort in it, and as a result, paid the consequences. Some bugs can be extremely expensive. For example, in 2015 a software glitch caused a system wide [Bloomberg terminal crash](https://www.theguardian.com/business/2015/apr/17/uk-halts-bond-sale-bloomberg-terminals-crash-worldwide) that affected over than 300,000 traders globally. It's hard to even imagine how much money and nerves were burned during those hours of outage. 
 
 But knowing that testing is important isn't enough. Testing is easy to get wrong and can be a massive distraction that at best eats away at your cash, but at worst can take up a lot of time and slow you down to a halt.
+
+> “I'm not a great programmer; I'm just a good programmer with great habits.” - Kent Beck
 
 While creating your testing strategy it's important to define an approach which makes sense for the product you're building, for your specific needs. Sorry, but there's no silver bullet, no one-size-fits all testing solution. There are however principles of testing that you can follow to help guide you, for example: *80% of defects are found in 20% of modules*, which means that you can identify some risky modules and put most of your effort in testing those. By following pricincipals like these we can harness the wisdom of our industry to devise a strategy which costs the least amount of energy while yielding the most amount of benefit.
 
