@@ -12,9 +12,14 @@
     <title>{{ .Title }}{{ if not .IsHome }} - {{ .Site.Title }}{{ end }}</title>
     {{ .Hugo.Generator }}
 
-    {{ with .Site.Params.description }}
-    <meta name="description" content="{{ . }}">
+    {{ if .Params.Description }}
+      <meta name="description" content="{{ .Params.Description }}">
+    {{ else }}
+      {{ with .Site.Params.description }}
+        <meta name="description" content="{{ . }}">
+      {{ end }}
     {{ end }}
+    
     <link rel="canonical" href="{{ .Permalink }}">
     {{ with .Site.Params.author }}
     <meta name="author" content="{{ . }}">
